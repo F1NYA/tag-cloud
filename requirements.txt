@@ -1,0 +1,7 @@
+Flask
+Flask-PyMongo
+Scrapy
+PyMongo
+nltk
+sklearn
+pymorhy2
